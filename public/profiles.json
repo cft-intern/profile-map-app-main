@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Amit Sharma",
+      "photo": "https://images.unsplash.com/photo-1640951613773-54706e06851d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "description": "Software Engineer from Bangalore.",
+      "address": "123 MG Road, Bangalore, Karnataka, India",
+      "contactInfo": "+91-9876543210",
+      "interests": "Technology, Cricket",
+      "location": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sita Patel",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "Graphic Designer from Mumbai.",
+      "address": "456 Bandra West, Mumbai, Maharashtra, India",
+      "contactInfo": "+91-9876543211",
+      "interests": "Art, Traveling",
+      "location": {
+        "lat": 19.0760,
+        "lng": 72.8777
+      }
+    },
+    {
+      "id": 3,
+      "name": "Raj Kumar",
+      "photo": "https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "Marketing Specialist from Delhi.",
+      "address": "789 Connaught Place, New Delhi, Delhi, India",
+      "contactInfo": "+91-9876543212",
+      "interests": "Reading, Sports",
+      "location": {
+        "lat": 28.6139,
+        "lng": 77.2090
+      }
+    },
+    {
+      "id": 4,
+      "name": "Priya Singh",
+      "photo": "https://plus.unsplash.com/premium_photo-1664541336896-b3d5f7dec9a3?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Teacher from Kolkata.",
+      "address": "321 Park Street, Kolkata, West Bengal, India",
+      "contactInfo": "+91-9876543213",
+      "interests": "Education, Cooking",
+      "location": {
+        "lat": 22.5726,
+        "lng": 88.3639
+      }
+    },
+    {
+      "id": 5,
+      "name": "Vikram Singh",
+      "photo": "https://images.unsplash.com/photo-1640960543409-dbe56ccc30e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "Entrepreneur from Chennai.",
+      "address": "654 Marina Beach, Chennai, Tamil Nadu, India",
+      "contactInfo": "+91-9876543214",
+      "interests": "Business, Music",
+      "location": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      }
+    }
+  ]
+  
